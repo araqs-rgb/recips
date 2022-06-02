@@ -1,0 +1,12 @@
+body{
+    color: aqua;
+    background-color: aqua;
+}
+
+h2.intro{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120px;
+    font-weight: lighter;
+    text-align: center;
+}
